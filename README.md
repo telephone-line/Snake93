@@ -12,4 +12,4 @@ Install instructions:
 
 # For Developers
 
-Read the [wiki](/wiki) for usage.
+Read the [wiki](https://github.com/telephone-line/Snake93/wiki) for usage.
